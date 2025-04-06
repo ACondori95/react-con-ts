@@ -1,1 +1,1 @@
-type IFoxImageItem = {id: string; url: string};
+type IFoxImageItem = {id: number; url: string};
